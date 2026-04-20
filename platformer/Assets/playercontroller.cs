@@ -18,6 +18,12 @@ public class playercontroller : MonoBehaviour
 
     public float max_fall_speed = 9.8f;
 
+    public LayerMask mask;
+
+    private RaycastHit2D left_ground_check;
+
+    private RaycastHit2D right_ground_check;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -70,6 +76,15 @@ public class playercontroller : MonoBehaviour
     private void FixedUpdate()
     {
 
+
+
+        
+
+
+            
+    
+
+
         Velocity.x += acceleration * direction.x;  
 
         Velocity.x = Mathf.Clamp(Velocity.x, -Max_Speed, Max_Speed);
@@ -79,15 +94,38 @@ public class playercontroller : MonoBehaviour
             Velocity.x = Mathf.MoveTowards(Velocity.x, 0, friction);
         }
 
-        Velocity.y -= gravity;
-        Velocity.y = Mathf.Max(Velocity.y, -max_fall_speed);
+        float ground_offset = 0f;
 
-        rb.MovePosition(rb.position + (Velocity * Max_Speed * Time.fixedDeltaTime));
+        ground_check = Physics2D.Raycast(rb.position, Vector2.down, 1, mask);
+        if (ground_check)
+        {
+
+            ground_offset = ground_check.distance - 0.5f;
+
+            Velocity.y = 0;
+        }
+        else
+        {
+            Velocity.y -= gravity;
+            Velocity.y = Mathf.Max(Velocity.y, -max_fall_speed);
+        }
+
+
+
+            
+
+        rb.MovePosition(rb.position + (Velocity * Time.fixedDeltaTime) - new Vector2(0, ground_offset));
 
     }
 
 
-
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawRay(GetComponent<Rigidbody2D>().position + new Vector2(0, 0), Vector2.down);
+        Gizmos.DrawRay(GetComponent<Rigidbody2D>().position + new Vector2(-0.5f, 0), Vector2.down);
+        Gizmos.DrawRay(GetComponent<Rigidbody2D>().position + new Vector2(0.5f, 0), Vector2.down);
+    }
 
 
 
