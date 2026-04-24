@@ -85,16 +85,6 @@ public class playercontroller : MonoBehaviour
 
     private void FixedUpdate()
     {
-
-
-
-        
-
-
-            
-    
-
-
         Velocity.x += acceleration * direction.x;  
 
         Velocity.x = Mathf.Clamp(Velocity.x, -Max_Speed, Max_Speed);
@@ -107,29 +97,29 @@ public class playercontroller : MonoBehaviour
         float ground_offset = 0f;
 
         bool is_grounded = false;
-        left_ground_check = Physics2D.Raycast(rb.position + new Vector2(-0.5f, 0), Vector2.down, 1, mask);
-        right_ground_check = Physics2D.Raycast(rb.position + new Vector2(0.5f, 0), Vector2.down, 1, mask);
-        is_grounded = (left_ground_check || right_ground_check);
+        if(Velocity.y < 0) 
+        {
+            left_ground_check = Physics2D.Raycast(rb.position + new Vector2(-0.5f, 0), Vector2.down, 1, mask);
+            right_ground_check = Physics2D.Raycast(rb.position + new Vector2(0.5f, 0), Vector2.down, 1, mask);
+            is_grounded = (left_ground_check || right_ground_check);
+        }
+        
         if (is_grounded)
         {
-            
             ground_offset = Mathf.Max(left_ground_check.distance, right_ground_check.distance) - 0.5f;
 
             Velocity.y = 0;
+            if (jump_check)
+            {
+                Velocity.y = jump_force;
+                is_grounded = false;
+            }
         }
         else
         {
             Velocity.y -= gravity;
             Velocity.y = Mathf.Max(Velocity.y, -max_fall_speed);
         }
-
-        if (jump_check)
-        {
-            Velocity.y = jump_force;
-            is_grounded = false;
-        }
-
-
 
         rb.MovePosition(rb.position + (Velocity * Time.fixedDeltaTime) - new Vector2(0, ground_offset));
 
