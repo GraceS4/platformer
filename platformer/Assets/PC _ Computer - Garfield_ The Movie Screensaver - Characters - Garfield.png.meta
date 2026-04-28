@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 71c937599c6e4aa479b2c5f4330d4f25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 789571128036096909
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_0
+  - first:
+      213: -6378418063428891861
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_1
+  - first:
+      213: -8042540004805714780
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_2
+  - first:
+      213: -7638029470504503517
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_3
+  - first:
+      213: -3218145651384650732
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_4
+  - first:
+      213: 7201211412522154089
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_5
+  - first:
+      213: 336510445736836604
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_6
+  - first:
+      213: 3560185552447512365
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_7
+  - first:
+      213: -3314566450397675467
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_8
+  - first:
+      213: 4162159963224729387
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_9
+  - first:
+      213: -8096765676050635324
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_10
+  - first:
+      213: 6871172578624015430
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_11
+  - first:
+      213: -6890728734311433734
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_12
+  - first:
+      213: 6194373079218208457
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_13
+  - first:
+      213: -2526352922399798610
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_14
+  - first:
+      213: 8736296228048716455
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_15
+  - first:
+      213: -1970525911954078634
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_16
+  - first:
+      213: 3496073832379375644
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_17
+  - first:
+      213: -7556896438657641082
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_18
+  - first:
+      213: 8067285135952497915
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_19
+  - first:
+      213: -444796096092441393
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_20
+  - first:
+      213: 8223223346746311374
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_21
+  - first:
+      213: -2469581719786458460
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_22
+  - first:
+      213: -5585549241389704211
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_23
+  - first:
+      213: 5719288112466016142
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_24
+  - first:
+      213: -3069913288479584840
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_25
+  - first:
+      213: -4700627394297451698
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_26
+  - first:
+      213: 1601714891486247483
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_27
+  - first:
+      213: 8935195268687362638
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_28
+  - first:
+      213: 4215689047308187734
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_29
+  - first:
+      213: 6204094996474337964
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_30
+  - first:
+      213: 1219658829172405432
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_31
+  - first:
+      213: 9184461587495118203
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_32
+  - first:
+      213: 7879632914674435698
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_33
+  - first:
+      213: 456868738941424305
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_34
+  - first:
+      213: -8475267838951815481
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_35
+  - first:
+      213: 800736880673130123
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_36
+  - first:
+      213: -3681751188145598619
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_37
+  - first:
+      213: 2998400187190274918
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_38
+  - first:
+      213: -5589795134059137778
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_39
+  - first:
+      213: 729235886665374162
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_40
+  - first:
+      213: 8011805373128704274
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_41
+  - first:
+      213: 2766950824435206671
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_42
+  - first:
+      213: -2555867883710214286
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_43
+  - first:
+      213: 8402261918020513200
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_44
+  - first:
+      213: -7315504000104617672
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_45
+  - first:
+      213: -4781434018124027012
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_46
+  - first:
+      213: -7853972624385936178
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_47
+  - first:
+      213: -3570691454785171406
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_48
+  - first:
+      213: 3951092551765419038
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_49
+  - first:
+      213: 1510102481865966570
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_50
+  - first:
+      213: -5958256393424273301
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_51
+  - first:
+      213: -426154783118671546
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_52
+  - first:
+      213: -2402422858698205876
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_53
+  - first:
+      213: -2441718161611933784
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_54
+  - first:
+      213: -537803771695362383
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_55
+  - first:
+      213: -8778655865781360220
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_56
+  - first:
+      213: -4057326506034006699
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_57
+  - first:
+      213: -1283376062735052810
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_58
+  - first:
+      213: -6311674684036730805
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_59
+  - first:
+      213: -5105801157548932810
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_60
+  - first:
+      213: -7080999226385536701
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_61
+  - first:
+      213: -5543961230739957399
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_62
+  - first:
+      213: 4638760266510893798
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_63
+  - first:
+      213: 2124191808972155810
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_64
+  - first:
+      213: 4850194053225172283
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_65
+  - first:
+      213: -2816043338788469906
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_66
+  - first:
+      213: 6063145714657567589
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_67
+  - first:
+      213: 8359799468928931087
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_68
+  - first:
+      213: 2529042756596411015
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_69
+  - first:
+      213: 4042540524750424779
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_70
+  - first:
+      213: 6884892059699146820
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_71
+  - first:
+      213: 7825697886970870681
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_72
+  - first:
+      213: 3415274010000509905
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_73
+  - first:
+      213: 4514208341230358545
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_74
+  - first:
+      213: -5200693060302350820
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_75
+  - first:
+      213: 1250310245911298892
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_76
+  - first:
+      213: 4637451474448980020
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_77
+  - first:
+      213: 8296241371323581061
+    second: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 20454
+        width: 221
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bfe73f1ce15fa00800000000000000
+      internalID: 789571128036096909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 20190
+        width: 179
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bc26cc09e4b77a0800000000000000
+      internalID: -6378418063428891861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19926
+        width: 152
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acdfa11a78236090800000000000000
+      internalID: -8042540004805714780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 19664
+        width: 145
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3273d922aa4400690800000000000000
+      internalID: -7638029470504503517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 19405
+        width: 143
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414ffbd9499d653d0800000000000000
+      internalID: -3218145651384650732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 19143
+        width: 143
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9683fd340a7dfe360800000000000000
+      internalID: 7201211412522154089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 18884
+        width: 148
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd3a5da7768ba400800000000000000
+      internalID: 336510445736836604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 18623
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f9c14b5e1586130800000000000000
+      internalID: 3560185552447512365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 18359
+        width: 159
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308e9bef5b4002d0800000000000000
+      internalID: -3314566450397675467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 18093
+        width: 175
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27ec5a3f66f2c930800000000000000
+      internalID: 4162159963224729387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 17837
+        width: 165
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c52d61248282af80800000000000000
+      internalID: -8096765676050635324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 17574
+        width: 170
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c0a432e0f4b5f50800000000000000
+      internalID: 6871172578624015430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 17304
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af93acb89b63f50a0800000000000000
+      internalID: -6890728734311433734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 17032
+        width: 136
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce3b011f75d6f550800000000000000
+      internalID: 6194373079218208457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 16773
+        width: 162
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa071bf66790fcd0800000000000000
+      internalID: -2526352922399798610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16511
+        width: 174
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2cd6de12f8d3970800000000000000
+      internalID: 8736296228048716455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16267
+        width: 194
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65446459f1947a4e0800000000000000
+      internalID: -1970525911954078634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 16006
+        width: 169
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10e287a0ac848030800000000000000
+      internalID: 3496073832379375644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 15743
+        width: 154
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68595692ab2802790800000000000000
+      internalID: -7556896438657641082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15479
+        width: 113
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfccc3eb611c4ff60800000000000000
+      internalID: 8067285135952497915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 15215
+        width: 123
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4fde6ae44c3d9f0800000000000000
+      internalID: -444796096092441393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14936
+        width: 136
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2438bb012ce1270800000000000000
+      internalID: 8223223346746311374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14673
+        width: 154
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a27450a2884abdd0800000000000000
+      internalID: -2469581719786458460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14411
+        width: 171
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb9387fe842c72b0800000000000000
+      internalID: -5585549241389704211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 14170
+        width: 192
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87b6a77c3efe5f40800000000000000
+      internalID: 5719288112466016142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 13908
+        width: 167
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd4ce4112a7565d0800000000000000
+      internalID: -3069913288479584840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 13647
+        width: 151
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b2e653a4404ceb0800000000000000
+      internalID: -4700627394297451698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 13383
+        width: 108
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3abd72253f6a3610800000000000000
+      internalID: 1601714891486247483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 13121
+        width: 119
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a7cd491c0300c70800000000000000
+      internalID: 8935195268687362638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12839
+        width: 121
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6583f445ad2218a30800000000000000
+      internalID: 4215689047308187734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 12577
+        width: 146
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa91a1578f591650800000000000000
+      internalID: 6204094996474337964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12315
+        width: 167
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b47dfb3e391de010800000000000000
+      internalID: 1219658829172405432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 12074
+        width: 199
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75edd70723c57f70800000000000000
+      internalID: 9184461587495118203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11813
+        width: 206
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27645a743641a5d60800000000000000
+      internalID: 7879632914674435698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11552
+        width: 162
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2959d82bf175600800000000000000
+      internalID: 456868738941424305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 11289
+        width: 112
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c60cfaedccc16a80800000000000000
+      internalID: -8475267838951815481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 11026
+        width: 124
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86831353f9cc1b00800000000000000
+      internalID: 800736880673130123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10761
+        width: 170
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f85371dcac7ecc0800000000000000
+      internalID: -3681751188145598619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_38
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 10500
+        width: 165
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be0f385157c9920800000000000000
+      internalID: 2998400187190274918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 10237
+        width: 173
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05b23b01fe0d62b0800000000000000
+      internalID: -5589795134059137778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9977
+        width: 165
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9182edc24ce1a00800000000000000
+      internalID: 729235886665374162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_41
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9715
+        width: 163
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21107ead986af2f60800000000000000
+      internalID: 8011805373128704274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_42
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 9446
+        width: 178
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a4f696d1f266620800000000000000
+      internalID: 2766950824435206671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9183
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f8f9a83bbb78cd0800000000000000
+      internalID: -2555867883710214286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_44
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8910
+        width: 143
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda76582b4da9470800000000000000
+      internalID: 8402261918020513200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8650
+        width: 177
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a0d00fdb1a7a90800000000000000
+      internalID: -7315504000104617672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8401
+        width: 186
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bafb8f71fe4adb0800000000000000
+      internalID: -4781434018124027012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_47
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8146
+        width: 194
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec475df9285110390800000000000000
+      internalID: -7853972624385936178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7884
+        width: 171
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d10b4a0b527ec0800000000000000
+      internalID: -3570691454785171406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_49
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 7621
+        width: 134
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e146ba6fdb915d630800000000000000
+      internalID: 3951092551765419038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_50
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 7355
+        width: 124
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae38e06d436f4f410800000000000000
+      internalID: 1510102481865966570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 7077
+        width: 162
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b600f3dd065005da0800000000000000
+      internalID: -5958256393424273301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_52
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6814
+        width: 139
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c0ec8b7ef51af0800000000000000
+      internalID: -426154783118671546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6551
+        width: 155
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45d30b7321e8aed0800000000000000
+      internalID: -2402422858698205876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_54
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6289
+        width: 181
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7308fc4464d1ed0800000000000000
+      internalID: -2441718161611933784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6050
+        width: 197
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be8b3da1565988f0800000000000000
+      internalID: -537803771695362383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 5788
+        width: 169
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9e3ba5003fb2680800000000000000
+      internalID: -8778655865781360220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_57
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 5525
+        width: 130
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555f0161a0b71b7c0800000000000000
+      internalID: -4057326506034006699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 5261
+        width: 119
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff00734548803ee0800000000000000
+      internalID: -1283376062735052810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4990
+        width: 153
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b403a28c05d6868a0800000000000000
+      internalID: -6311674684036730805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4717
+        width: 131
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631848e16ec8429b0800000000000000
+      internalID: -5105801157548932810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_61
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 4455
+        width: 146
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349697868bc3bbd90800000000000000
+      internalID: -7080999226385536701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_62
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 4193
+        width: 184
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969153142a4ef03b0800000000000000
+      internalID: -5543961230739957399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3953
+        width: 206
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2049b92ef206040800000000000000
+      internalID: 4638760266510893798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3692
+        width: 181
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab64902235aa7d10800000000000000
+      internalID: 2124191808972155810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3430
+        width: 135
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dc2324bc95f4340800000000000000
+      internalID: 4850194053225172283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_66
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3166
+        width: 112
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63886fd0876be8d0800000000000000
+      internalID: -2816043338788469906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2901
+        width: 170
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563a89f47ee942450800000000000000
+      internalID: 6063145714657567589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2640
+        width: 165
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05120b2359f30470800000000000000
+      internalID: 8359799468928931087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2376
+        width: 159
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a24b8dcf6f81320800000000000000
+      internalID: 2529042756596411015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2117
+        width: 181
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcacedf503df91830800000000000000
+      internalID: 4042540524750424779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1864
+        width: 171
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440764fb9dc0c8f50800000000000000
+      internalID: 6884892059699146820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_72
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1876
+        width: 157
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b7c6014c67a9c60800000000000000
+      internalID: 7825697886970870681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1586
+        width: 206
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db44b00e9d756f20800000000000000
+      internalID: 3415274010000509905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_74
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1325
+        width: 191
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110142da190b5ae30800000000000000
+      internalID: 4514208341230358545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_75
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1067
+        width: 173
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16d6d2573d63d7b0800000000000000
+      internalID: -5200693060302350820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 807
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4303925b8ef95110800000000000000
+      internalID: 1250310245911298892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 500
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43894a5bb898b5040800000000000000
+      internalID: 4637451474448980020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 178
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58244a4629b222370800000000000000
+      internalID: 8296241371323581061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_0: 789571128036096909
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_1: -6378418063428891861
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_10: -8096765676050635324
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_11: 6871172578624015430
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_12: -6890728734311433734
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_13: 6194373079218208457
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_14: -2526352922399798610
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_15: 8736296228048716455
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_16: -1970525911954078634
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_17: 3496073832379375644
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_18: -7556896438657641082
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_19: 8067285135952497915
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_2: -8042540004805714780
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_20: -444796096092441393
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_21: 8223223346746311374
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_22: -2469581719786458460
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_23: -5585549241389704211
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_24: 5719288112466016142
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_25: -3069913288479584840
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_26: -4700627394297451698
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_27: 1601714891486247483
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_28: 8935195268687362638
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_29: 4215689047308187734
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_3: -7638029470504503517
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_30: 6204094996474337964
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_31: 1219658829172405432
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_32: 9184461587495118203
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_33: 7879632914674435698
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_34: 456868738941424305
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_35: -8475267838951815481
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_36: 800736880673130123
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_37: -3681751188145598619
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_38: 2998400187190274918
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_39: -5589795134059137778
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_4: -3218145651384650732
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_40: 729235886665374162
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_41: 8011805373128704274
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_42: 2766950824435206671
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_43: -2555867883710214286
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_44: 8402261918020513200
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_45: -7315504000104617672
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_46: -4781434018124027012
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_47: -7853972624385936178
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_48: -3570691454785171406
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_49: 3951092551765419038
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_5: 7201211412522154089
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_50: 1510102481865966570
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_51: -5958256393424273301
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_52: -426154783118671546
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_53: -2402422858698205876
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_54: -2441718161611933784
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_55: -537803771695362383
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_56: -8778655865781360220
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_57: -4057326506034006699
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_58: -1283376062735052810
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_59: -6311674684036730805
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_6: 336510445736836604
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_60: -5105801157548932810
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_61: -7080999226385536701
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_62: -5543961230739957399
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_63: 4638760266510893798
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_64: 2124191808972155810
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_65: 4850194053225172283
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_66: -2816043338788469906
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_67: 6063145714657567589
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_68: 8359799468928931087
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_69: 2529042756596411015
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_7: 3560185552447512365
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_70: 4042540524750424779
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_71: 6884892059699146820
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_72: 7825697886970870681
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_73: 3415274010000509905
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_74: 4514208341230358545
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_75: -5200693060302350820
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_76: 1250310245911298892
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_77: 4637451474448980020
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_78: 8296241371323581061
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_8: -3314566450397675467
+      PC _ Computer - Garfield_ The Movie Screensaver - Characters - Garfield_9: 4162159963224729387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
